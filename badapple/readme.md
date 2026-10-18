@@ -19,3 +19,5 @@ for file in os.listdir(inputFolder):
   with open(outputFolder+file+".txt", "w") as outputFile:
     outputFile.write(outputText)
 ```
+
+(Video used in outputv4: https://youtu.be/9lNZ_Rnr7Jc?si=f5SnubGf_HrkCXDP)
