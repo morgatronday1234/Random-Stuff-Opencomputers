@@ -1,5 +1,5 @@
 Made in [ocelot.desktop](https://ocelot.fomalhaut.me/desktop) but will run on ingame Opencomputers
-
+To use this you kind of need a base level understanding out Opencomptuers, Remember to change basePath to the right path for you.
 
 Converter commands:
 
