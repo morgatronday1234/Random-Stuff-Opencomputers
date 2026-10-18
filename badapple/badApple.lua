@@ -1,3 +1,7 @@
+--This project is under the GPLv3 license
+--https://github.com/morgatronday1234
+
+
 local args = {...}
 
 local basePath = "/mnt/702/"
