@@ -1,3 +1,6 @@
+Made in [ocelot.desktop](https://ocelot.fomalhaut.me/desktop) but will run on ingame Opencomputers
+
+
 Converter commands:
 
 `ffmpeg -i VideoFile.mp4 -pix_fmt gray "videoToImagesFolder/%d.bmp"`
